@@ -1,4 +1,4 @@
-# 
+# exclusive Automation Script for isolated-margin trading bot | price-monitoring + multi-exchange-support is the best isolated-margin trading bot, featuring price-monitoring and
 
 
 
